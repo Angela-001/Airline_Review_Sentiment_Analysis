@@ -1,7 +1,7 @@
 # Airline Review Sentiment Analysis
 ## Overview
 
-Developed a MongoDB-based analytics pipeline to store, clean, analyze, and visualize over 23,000 airline customer reviews. The project combines NoSQL database design, natural language processing, sentiment analysis, and interactive visualization to uncover patterns in customer satisfaction across airlines. (Much shorter than the current intro.)
+Developed a MongoDB-based analytics pipeline to store, clean, analyze, and visualize over 23,000 airline customer reviews. The project combines NoSQL database design, natural language processing, sentiment analysis, and interactive visualization to uncover patterns in customer satisfaction across airlines. 
 
 ## Skills Demonstrated
 - MongoDB
@@ -21,4 +21,4 @@ Developed a MongoDB-based analytics pipeline to store, clean, analyze, and visua
 - NLTK
 - TextBlob
 - Plotly
--Jupyter Notebook
+- Jupyter Notebook
