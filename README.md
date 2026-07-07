@@ -18,6 +18,16 @@ Airlines receive large amounts of unstructured customer feedback through online 
 - Matplotlib
 - Plotly
 
+## Skills Demonstrated
+- NoSQL database design
+- MongoDB data ingestion
+- Python data cleaning
+- Natural language processing
+- Sentiment analysis
+- Data visualization
+- Exploratory data analysis
+- Query performance testing
+  
 ## Project Workflow
 1. Loaded airline review CSV data into MongoDB.
 2. Created separate MongoDB collections for review text and metadata.
