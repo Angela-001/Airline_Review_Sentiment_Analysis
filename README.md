@@ -37,8 +37,6 @@ Airlines receive large amounts of unstructured customer feedback through online 
 
 ![Complaint Category Distribution](images/complaint_category_distribution.png)
 
-![Airline Complaint Breakdown](images/airline_complaint_breakdown.png)
-
 ![Satisfaction by Seat Type](images/satisfaction_by_seat_type.png)
 
 ![Yearly Sentiment Trend](images/yearly_sentiment_trend.png)
